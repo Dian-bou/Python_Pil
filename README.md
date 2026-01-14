@@ -3,3 +3,4 @@ Exercice sur PIL
 
 
 Diane : v1  debut
+Laur : prepare v2
